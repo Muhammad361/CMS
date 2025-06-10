@@ -1,0 +1,23 @@
+[
+    {
+        "patient_id": "254",
+        "timestamp": "2025-06-08 20:30:09.711789",
+        "blood_pressure": "79",
+        "pulse": 54,
+        "temperature": 28.0
+    },
+    {
+        "patient_id": "clear",
+        "timestamp": "2025-06-08 21:32:09.014764",
+        "blood_pressure": "1",
+        "pulse": 50,
+        "temperature": 1.0
+    },
+    {
+        "patient_id": 255,
+        "timestamp": "2025-06-08 21:43:05.798294",
+        "blood_pressure": "45",
+        "pulse": 78,
+        "temperature": 28.7
+    }
+]
